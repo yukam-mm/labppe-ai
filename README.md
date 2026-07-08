@@ -4,7 +4,7 @@
 
 LabPPE AI is a web application that verifies whether a person is wearing the required PPE before entering a biotech laboratory. It uses a fine-tuned YOLO detector to identify PPE in an image or webcam capture, generates a compliance report, and issues an access decision with a spoken announcement.
 
-![LabPPE AI dashboard](assets/screenshot.png)
+![LabPPE AI dashboard]({src,models,data,reports,assets}/screenshot.png)
 
 ---
 
