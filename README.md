@@ -123,7 +123,7 @@ This reports mAP50 / mAP50-95 on the validation split and side-by-side inference
 
 ## Acknowledgments
 
-Developed by **Team Synergy** during the **Summer School on Applied Science & Tech for real world apps (ASTRA)**, 4th edition.
+Developed by **Team Synergy Lab** during the **Summer School on Applied Science & Tech for real world apps (ASTRA)**, 4th edition.
 
 Dataset citation:
 
