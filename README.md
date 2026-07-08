@@ -123,7 +123,7 @@ This reports mAP50 / mAP50-95 on the validation split and side-by-side inference
 
 ## Acknowledgments
 
-Developed by **Team Synergy** during the **Astra Program**, a joint academic initiative between Romanian and American universities focused on interdisciplinary innovation in artificial intelligence and applied sciences.
+Developed by **Team Synergy** during the **Summer School on Applied Science & Tech for real world apps (ASTRA)**, 4th edition.
 
 Dataset citation:
 
