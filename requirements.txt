@@ -1,0 +1,19 @@
+# --- Core app (needed to RUN the dashboard) ---
+streamlit>=1.36
+ultralytics>=8.2          # YOLOv8
+opencv-python-headless>=4.9
+pillow>=10.0
+numpy>=1.26
+pandas>=2.0
+
+# --- Training only (needed to TRAIN the model) ---
+datasets>=2.19            # downloads CPPE-5 from Hugging Face
+pycocotools>=2.0
+tqdm>=4.66
+
+# --- Optional: matplotlib for custom plots, if you extend the app ---
+matplotlib>=3.8
+
+# NOTE on voice: pyttsx3 is intentionally NOT required. The app announces the
+# decision via the browser's built-in Web Speech API (client-side, offline,
+# zero dependencies). See src/voice.py for the rationale and a pyttsx3 fallback.

@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/cppe5/
+models/*.pt
+models/runs/
+reports/*.png
+reports/*.md
+.venv/
+.DS_Store
